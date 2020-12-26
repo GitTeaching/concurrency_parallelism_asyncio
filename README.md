@@ -16,3 +16,30 @@ Async programming in Python with asyncio : https://dev.to/welldone2094/async-pro
 
 ###### Python GIL - Global Interpreter Lock :
 <img src="https://miro.medium.com/max/3400/1*FEQjLh2j-8nO-eOJdbxbuA.png" width="700px">
+
+<table class="table table-hover">
+<thead>
+<tr>
+<th>Concurrency Type</th>
+<th>Switching Decision</th>
+<th>Number of Processors</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre-emptive multitasking (<code>threading</code>)</td>
+<td>The operating system decides when to switch tasks external to Python.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Cooperative multitasking (<code>asyncio</code>)</td>
+<td>The tasks decide when to give up control.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Multiprocessing (<code>multiprocessing</code>)</td>
+<td>The processes all run at the same time on different processors.</td>
+<td>Many</td>
+</tr>
+</tbody>
+</table>
