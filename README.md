@@ -12,6 +12,6 @@ Async programming in Python with asyncio : https://dev.to/welldone2094/async-pro
 
 <img src="https://miro.medium.com/max/810/1*t_oCyHBstMnF8WpZ67pKTg.jpeg">
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--d28fU0gK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/eduzmp4zt3898xz5dfia.jpeg">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--d28fU0gK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/eduzmp4zt3898xz5dfia.jpeg" width="700px">
 
 <img src="https://miro.medium.com/max/3400/1*FEQjLh2j-8nO-eOJdbxbuA.png" width="700px">
