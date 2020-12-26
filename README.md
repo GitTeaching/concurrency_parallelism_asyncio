@@ -1,5 +1,11 @@
 # concurrency_parallelism_asyncio
+
 Multiprocessing, (multi)threading ,and asynchronous programming with asyncio.
+
+The basic types of concurrency available in Python:
+- Threading
+- Multiprocessing
+- Asyncio
 
 #### Some readings :
 
