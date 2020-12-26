@@ -17,6 +17,7 @@ Async programming in Python with asyncio : https://dev.to/welldone2094/async-pro
 ###### Python GIL - Global Interpreter Lock :
 <img src="https://miro.medium.com/max/3400/1*FEQjLh2j-8nO-eOJdbxbuA.png" width="700px">
 
+#### From : https://realpython.com/python-concurrency/
 <table class="table table-hover">
 <thead>
 <tr>
