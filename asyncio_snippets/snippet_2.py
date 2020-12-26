@@ -43,7 +43,7 @@ async def main():
 
 	# 5 - concurrently
 	try:
-		await asyncio.wait_for(task(1), timeout=2.5)
+		await asyncio.wait_for(task(1), timeout=0.5)
 	except asyncio.TimeoutError:
 		print("timeout!")
 
