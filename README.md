@@ -7,7 +7,7 @@ The basic types of concurrency available in Python:
 - Multiprocessing
 - Asyncio
 
-#### Some readings :
+#### Some readings / References:
 
 Coroutines and tasks : https://docs.python.org/fr/3/library/asyncio-task.html
 
@@ -20,6 +20,8 @@ Async programming in Python with asyncio : https://dev.to/welldone2094/async-pro
 Speed Up Your Python Program With Concurrency : https://realpython.com/python-concurrency/
 
 Asynchronous Python for Web Development : https://stackabuse.com/asynchronous-python-for-web-development/
+
+Async IO en Python: une solution complète : https://www.codeflow.site/fr/article/async-io-python#_un_programme_complet_demandes_asynchrones
 
 <img src="https://miro.medium.com/max/810/1*t_oCyHBstMnF8WpZ67pKTg.jpeg">
 
