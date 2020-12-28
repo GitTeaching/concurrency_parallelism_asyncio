@@ -18,3 +18,4 @@ def add(x, y):
 
 
 # Running Celery worker server : $ celery -A tasks worker --loglevel=INFO --pool=solo  /or -P threads
+# Removing all pending tasks : $ celery -A tasks purge
