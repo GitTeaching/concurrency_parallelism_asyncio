@@ -9,6 +9,10 @@ The basic types of concurrency available in Python:
 
 ### Some readings / References:
 
+#### Threading / Multiprocessing :
+
+Speed Up Your Python Program With Concurrency : https://realpython.com/python-concurrency/
+
 #### Asyncio :
 
 Coroutines and tasks : https://docs.python.org/fr/3/library/asyncio-task.html
