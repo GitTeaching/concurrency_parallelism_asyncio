@@ -9,6 +9,8 @@ The basic types of concurrency available in Python:
 
 #### Some readings / References:
 
+##### Asyncio :
+
 Coroutines and tasks : https://docs.python.org/fr/3/library/asyncio-task.html
 
 Event loop : https://docs.python.org/fr/3/library/asyncio-eventloop.html
@@ -22,6 +24,17 @@ Speed Up Your Python Program With Concurrency : https://realpython.com/python-co
 Asynchronous Python for Web Development : https://stackabuse.com/asynchronous-python-for-web-development/
 
 Async IO en Python: une solution complète : https://www.codeflow.site/fr/article/async-io-python#_un_programme_complet_demandes_asynchrones
+
+
+# Celery :
+
+Celery Tutorial: A Must-Learn Technology for Python Developers : https://medium.com/swlh/python-developers-celery-is-a-must-learn-technology-heres-how-to-get-started-578f5d63fab3
+
+Setting up a task queue using Celery and RabbitMQ : https://medium.com/@krishnadey30/setting-up-a-task-queue-using-celery-and-rabbitmq-e73f8fd15de0
+
+How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://miro.medium.com/max/810/1*t_oCyHBstMnF8WpZ67pKTg.jpeg">
 
