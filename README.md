@@ -36,6 +36,8 @@ Celery Tutorial: A Must-Learn Technology for Python Developers : https://medium.
 
 Setting up a task queue using Celery and RabbitMQ : https://medium.com/@krishnadey30/setting-up-a-task-queue-using-celery-and-rabbitmq-e73f8fd15de0
 
+Celery: an overview of the architecture and how it works : https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
+
 How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -74,3 +76,7 @@ How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.c
 </tr>
 </tbody>
 </table>
+
+From : https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
+
+<img src="https://vinta-cms.s3.amazonaws.com/media/filer_public/a4/fb/a4fbadbe-6846-4a25-863e-a040accdd69c/results_backend.jpg">
