@@ -38,6 +38,10 @@ Setting up a task queue using Celery and RabbitMQ : https://medium.com/@krishnad
 
 Celery: an overview of the architecture and how it works : https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
 
+Celery in the wild: tips and tricks to run async tasks in the real world : https://www.vinta.com.br/blog/2018/celery-wild-tips-and-tricks-run-async-tasks-real-world/
+
+Celery tasks Checklist : https://devchecklists.com/celery-tasks-checklist/
+
 How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
 
 ---------------------------------------------------------------------------------------------------------------------------------
