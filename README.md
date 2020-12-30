@@ -32,6 +32,8 @@ Async IO en Python: une solution complète : https://www.codeflow.site/fr/articl
 
 #### Celery :
 
+Celery Docs : https://docs.celeryproject.org/en/stable/index.html
+
 Celery Tutorial: A Must-Learn Technology for Python Developers : https://medium.com/swlh/python-developers-celery-is-a-must-learn-technology-heres-how-to-get-started-578f5d63fab3
 
 Setting up a task queue using Celery and RabbitMQ : https://medium.com/@krishnadey30/setting-up-a-task-queue-using-celery-and-rabbitmq-e73f8fd15de0
