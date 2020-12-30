@@ -42,6 +42,8 @@ Celery: an overview of the architecture and how it works : https://www.vinta.com
 
 Celery in the wild: tips and tricks to run async tasks in the real world : https://www.vinta.com.br/blog/2018/celery-wild-tips-and-tricks-run-async-tasks-real-world/
 
+Dealing with resource-consuming (Time + Memory) tasks on Celery : https://www.vinta.com.br/blog/2018/dealing-resource-consuming-tasks-celery/
+
 Celery tasks Checklist : https://devchecklists.com/celery-tasks-checklist/
 
 How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
