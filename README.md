@@ -89,6 +89,6 @@ How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.c
 
 From : https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
 
-<img src="https://vinta-cms.s3.amazonaws.com/media/filer_public/a4/fb/a4fbadbe-6846-4a25-863e-a040accdd69c/results_backend.jpg" width="600px">
+<img src="https://vinta-cms.s3.amazonaws.com/media/filer_public/a4/fb/a4fbadbe-6846-4a25-863e-a040accdd69c/results_backend.jpg" width="700px">
 
 <img src="https://miro.medium.com/max/2048/0*HvZk015GZdvL1tyv.png" width="700px">
