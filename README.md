@@ -16,8 +16,9 @@ Quick Recap
 - Concurrency: Making progress together.
 - Parallelism: Making progress in parallel.
 
-
 Parallelism implies Concurrency. But Concurrency doesn’t always mean Parallelism.
+
+http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/
 
 ### Python Multithreading vs. Multiprocessing
 
