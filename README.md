@@ -12,10 +12,12 @@ Python Event-Driven architecture using **RabbitMQ** and **pika**.
 Quick Recap
 
 Sync: Blocking operations.
-Async: Non blocking operations.
-Concurrency: Making progress together.
-Parallelism: Making progress in parallel.
 
+Async: Non blocking operations.
+
+Concurrency: Making progress together.
+
+Parallelism: Making progress in parallel.
 
 
 Parallelism implies Concurrency. But Concurrency doesn’t always mean Parallelism.
