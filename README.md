@@ -4,13 +4,14 @@ Multiprocessing, (multi)threading ,and asynchronous programming with **asyncio**
 
 Python Event-Driven architecture using **RabbitMQ** and **pika**.
 
-The basic types of concurrency available in Python:
+### The basic types of concurrency available in Python:
 - Threading
 - Multiprocessing
 - Asyncio
 
-Python Multithreading vs. Multiprocessing
-"If your code is IO bound, both multiprocessing and multithreading in Python will work for you. Multiprocessing is a easier to just drop in than threading but has a higher memory overhead. If your code is CPU bound, multiprocessing is most likely going to be the better choice—especially if the target machine has multiple cores or CPUs. For web applications, and when you need to scale the work across multiple machines, **RQ** is going to be better for you." shorturl.at/ejnz1
+### Python Multithreading vs. Multiprocessing
+
+"If your code is IO bound, both **multiprocessing** and **multithreading** in Python will work for you. Multiprocessing is a easier to just drop in than threading but has a higher memory overhead. If your code is CPU bound, multiprocessing is most likely going to be the better choice—especially if the target machine has multiple cores or CPUs. For web applications, and when you need to scale the work across multiple machines, **RQ** is going to be better for you." shorturl.at/ejnz1
 
 ### Some readings / References:
 
