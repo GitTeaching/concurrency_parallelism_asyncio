@@ -91,6 +91,40 @@ How to Use Celery and RabbitMQ with Django : https://simpleisbetterthancomplex.c
 </tbody>
 </table>
 
+#### From https://leimao.github.io/blog/Python-Concurrency-High-Level/: 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uzvj">Concurrency Type</th>
+    <th class="tg-uzvj">Features</th>
+    <th class="tg-uzvj">Use Criteria</th>
+    <th class="tg-uzvj">Metaphor</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8">Multiprocessing</td>
+    <td class="tg-9wq8">Multiple processes, high CPU utilization.</td>
+    <td class="tg-9wq8">CPU-bound</td>
+    <td class="tg-9wq8"><span style="font-weight:400;font-style:normal">We have ten kitchens, ten chefs, ten dishes to cook.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Threading</td>
+    <td class="tg-9wq8">Single process, multiple threads, pre-emptive multitasking, OS decides task switching.</td>
+    <td class="tg-9wq8">Fast I/O-bound</td>
+    <td class="tg-9wq8"><span style="font-weight:400;font-style:normal">We have one kitchen, ten chefs, ten dishes to cook. The kitchen is crowded when the ten chefs are present together.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">AsyncIO</td>
+    <td class="tg-9wq8">Single process, single thread, cooperative multitasking, tasks cooperatively decide switching.</td>
+    <td class="tg-9wq8">Slow I/O-bound</td>
+    <td class="tg-9wq8"><span style="font-weight:400;font-style:normal">We have one kitchen, one chef, ten dishes to cook. </span></td>
+  </tr>
+</tbody>
+</table>
+
+
 From : https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/
 
 <img src="https://vinta-cms.s3.amazonaws.com/media/filer_public/a4/fb/a4fbadbe-6846-4a25-863e-a040accdd69c/results_backend.jpg" width="600px">
