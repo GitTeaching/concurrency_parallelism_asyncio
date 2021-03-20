@@ -20,7 +20,7 @@ Parallelism implies Concurrency. But Concurrency doesn’t always mean Paralleli
 
 http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/
 
-### Python Multithreading vs. Multiprocessing
+### Python Multithreading vs. Multiprocessing V. Asyncio
 
 ```
 if io_bound:
