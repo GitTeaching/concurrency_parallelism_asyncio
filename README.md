@@ -22,15 +22,15 @@ http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/
 
 ### Python Multithreading vs. Multiprocessing
 
-'''
+```
 if io_bound:
     if io_very_slow:
         print("Use Asyncio")
     else:
-       print("Use Threads")
+        print("Use Threads")
 else:
     print("Multi Processing")
-'''
+```
 
 "If your code is IO bound, both **multiprocessing** and **multithreading** in Python will work for you. Multiprocessing is a easier to just drop in than threading but has a higher memory overhead. If your code is CPU bound, multiprocessing is most likely going to be the better choice—especially if the target machine has multiple cores or CPUs. For web applications, and when you need to scale the work across multiple machines, **RQ library** is going to be better for you." shorturl.at/ejnz1
 
