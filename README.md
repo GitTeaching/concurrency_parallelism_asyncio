@@ -10,7 +10,6 @@ Python Event-Driven architecture using **RabbitMQ** and **pika**.
 - Asyncio
 
 Quick Recap
-
 - Sync: Blocking operations.
 - Async: Non blocking operations.
 - Concurrency: Making progress together.
