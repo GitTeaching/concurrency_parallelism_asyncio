@@ -56,6 +56,7 @@ Asynchronous Python for Web Development : https://stackabuse.com/asynchronous-py
 Async IO en Python: une solution complète : https://www.codeflow.site/fr/article/async-io-python#_un_programme_complet_demandes_asynchrones
 
 
+
 #### - Celery :
 
 Celery Docs : https://docs.celeryproject.org/en/stable/index.html
