@@ -9,7 +9,6 @@ Python Event-Driven architecture using **RabbitMQ** and **pika**.
 - Multiprocessing
 - Asyncio
 
-
 Quick Recap
 - Sync: Blocking operations.
 - Async: Independant and Non blocking operations.
