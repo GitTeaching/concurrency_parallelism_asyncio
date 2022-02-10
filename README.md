@@ -1,6 +1,5 @@
 # concurrency_parallelism_asyncio
 
-
 Multiprocessing, (multi)threading ,and asynchronous programming with **asyncio** and **Celery**.
 
 Python Event-Driven architecture using **RabbitMQ** and **pika**.
